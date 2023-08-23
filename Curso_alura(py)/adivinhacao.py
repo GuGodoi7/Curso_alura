@@ -1,5 +1,5 @@
 import random
-
+# ai calica prende e solta, no chuveiro ela se acabaaaa
 def jogar():
 
     print("*****************************************")
