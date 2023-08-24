@@ -1,5 +1,6 @@
 import random
-
+# ai calica prende e solta, no chuveiro ela se acabaaaa 
+#vem deslizando vai que eu to gostando veeeeeeem
 def jogar():
 
     print("*****************************************")
